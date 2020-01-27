@@ -2,6 +2,15 @@
 
 This is the sample Timber Man Arcade Game that is built in the first five sections of Beginning C++ Game Programming tutorial.
 
+Main Screen
+
+![alt text](https://github.com/ramazantokay/Timber-2D-Game/blob/master/timber2.png)
+
+In Game
+
+![alt text](https://github.com/ramazantokay/Timber-2D-Game/blob/master/timber1.png)
+
+
 * Used C++ and SFML Graphics Library.
 
 # How to play:
